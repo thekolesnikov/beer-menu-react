@@ -1,0 +1,18 @@
+.beerlist {
+    display: flex;
+    gap: 200px;
+    align-items: center;
+}
+
+.beerlist__button {
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.beerlist__button:hover {
+    background-color: rgb(225, 51, 51);
+}

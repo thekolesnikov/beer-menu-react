@@ -1,0 +1,28 @@
+.beer {
+    margin: 20px;
+}
+
+.beer__button {
+    cursor: pointer;
+    background-color: aqua;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.beer__button:hover {
+    background-color: rgb(48, 180, 180);
+}
+
+.beer__name {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.beer__img {
+    height: 500px;
+    width: 200px;
+    margin-top: 20px;
+}
